@@ -14,8 +14,8 @@ import (
 	"github.com/prasmussen/gdrive/drive"
 )
 
-const ClientId = "173239793741-vehluh31ou42tb35mund4epsv45pa6lt.apps.googleusercontent.com"
-const ClientSecret = "ur3CEHP2Ut68Gn6d57oASTPY"
+const ClientId = "173239793741-u1ks8g99jl5bkqbtr5b2st8ujene7lnu.apps.googleusercontent.com"
+const ClientSecret = "vkS4DEWoJyuaBxw_qeaHCNUt"
 const TokenFilename = "token_v2.json"
 const DefaultCacheFileName = "file_cache.json"
 
